@@ -1,0 +1,1 @@
+A portfolio is a curated collection of work samples, projects, achievements, and experiences that showcases an individual's or organization's skills, talents, and accomplishments. It serves as a comprehensive representation of one's abilities, expertise, and creative output in a specific field or industry
