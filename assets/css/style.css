@@ -1699,7 +1699,21 @@ textarea.form-input::-webkit-resizer { display: none; }
     background-color: #ffffff; /* Background color on hover */
     color: #000000; /* Text color on hover */
 }
+.resume_doc2 {
+  display: inline-block;
+  padding: 8px 10px;
+  border: 2px solid #ffffff; /* White outline color */
+  border-radius: 10px;
+  color: #ffffff; /* Text color */
+  text-decoration: none;
+  background-color: transparent;
+  transition: all 0.3s ease;
+}
 
+.resume_doc2:hover {
+  background-color: #ffffff; /* Background color on hover */
+  color: #000000; /* Text color on hover */
+}
 
 
   /**
