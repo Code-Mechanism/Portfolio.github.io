@@ -1916,3 +1916,40 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
+.file-upload-container {
+  text-align: left;
+}
+
+.file-upload-label {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: #fff;
+  background-color: #4caf50;
+  padding: 12px 24px;
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: bold;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.file-upload-label:hover {
+  background-color: #45a049;
+}
+
+.file-upload-input {
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  cursor: pointer;
+  height: 100%;
+  width: 100%;
+}
+
+.file-upload-button {
+  display: inline-block;
+  pointer-events: none;
+}
